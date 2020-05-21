@@ -1,4 +1,4 @@
-##Flower Image Classifier from Udacity Nanodegree Project
+## Flower Image Classifier from Udacity Nanodegree Project
 
 I kindly submit my Project. The repository includes this short readme, my workbook as .html, train.py, predict.py and auxiliary.py which contains the required functions to run train.py and predict.py.
 
